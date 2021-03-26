@@ -2,7 +2,7 @@ const BLOG = {
   title: 'CRAIGARY',
   author: 'JackieWong',
   email: 'wangyr9577@gmail.com',
-  link: 'https://nobelium-orpin.vercel.app/',
+  link: 'https://www.wangyurui.cn/',
   description: '生活观察',
   lang: 'en-US',
   appearance: 'auto', // ['light', 'dark', 'auto'],
